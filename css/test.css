@@ -58,7 +58,7 @@ a {
     font-weight: 700;
     text-decoration: none;
 }
-section a {
+.link {
     margin-top: 6px;
     display: block;
     text-align: center;
